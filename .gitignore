@@ -1,0 +1,39 @@
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# BlueJ files (sometimes used in beginners setups)
+*.ctxt
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# JVM crash logs
+hs_err_pid*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp

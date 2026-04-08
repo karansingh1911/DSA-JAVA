@@ -1,0 +1,7 @@
+                    ---Quick Recap after Backend Development.---
+
+1. Name the file with PascalCase.
+2. Create a class with same name : and it should be public.
+3. This class must be containing main method which must be 
+        public static void main(String[] args)
+4. All the other methods must be declared public static so that they can be used inside the file itself and can be accessible to the main class file. 
